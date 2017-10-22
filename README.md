@@ -1,0 +1,2 @@
+# pythonicos
+curso de pythonicos
